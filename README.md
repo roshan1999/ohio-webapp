@@ -40,9 +40,5 @@ Visit http://localhost:8000 on a browser (preferebly firefox)
 - Sarthak Singh Chauhan
 - Soham Prabhakar Patil
 
-## 6. Addressing the questions?
-- 
-
-
 
 
